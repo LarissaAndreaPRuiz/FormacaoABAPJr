@@ -1,2 +1,2 @@
 # FormacaoABAPJr
-Formação ABAP Jr.
+Curso do Descomplicando Linguagens Formação ABAP Jr.
